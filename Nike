@@ -1,0 +1,32 @@
+<div id="container">
+  <article id="card">
+    <header>
+      <img id="nikeLogo" src="https://wallpapercave.com/wp/CgjGnw0.jpg" alt="">
+      <span id="nike" class="subhead">Nike</span>
+    </header>
+    <img id="shoe" src="https://images-na.ssl-images-amazon.com/images/I/81uiWMk9dnL._AC_UX395_.jpg" alt="">
+    <section>
+      <div id="description">
+        <span id="retail" class="subhead">Nike Air Force 1</span><span id="time" class="faded"> </span>
+      </div>
+  <h5>Simple and sleek shoe thats affordable. Classic white leather with a shine</h5>
+     <h2>Price: $90</h2>
+      <img src="https://lh3.googleusercontent.com/proxy/1X65bUlIat2E-JWt2eVbFzGuuQatPcumMZOSOxGDSv8pY2gHp0xr3za92alroEMYG4MIgdW1JH28vr9wypgWDvMJNw" alt="Rate">
+      <button type="Button">Add to Cart</button>
+      <div id="location">
+        <img src="https://image.flaticon.com/icons/svg/64/64113.svg" alt="">
+        <span class="faded">North America</span>
+      </div>
+      <div id="tags">
+        <ul>
+          <li>Advertising</li>
+          <li>Widget</li>
+        </ul>
+      </div>
+    </section>
+    <footer>
+      <p>Description</p>
+      <p class="faded">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur omnis excepturi perferendis quasi labore architecto...</p>
+    </footer>
+  </article>
+</div>
